@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/StopSign/0105011248jpg-b475241c60a26625.jpg'>
+    <box top='149' left='434' width='52' height='55'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/StopSign/1.jpg'>
+    <box top='68' left='519' width='87' height='84'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/StopSign/stopp.jpeg'>
+    <box top='49' left='38' width='140' height='147'/>
+    <box top='37' left='37' width='141' height='158'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/StopSign/turkeyHillC04022005B.jpg'>
+    <box top='108' left='66' width='195' height='209'/>
+  </image>
+</images>
+</dataset>

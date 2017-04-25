@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/0919.jpg'>
+    <box top='507' left='1343' width='32' height='41'/>
+    <box top='510' left='3249' width='31' height='40'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/0934.jpg'>
+    <box top='409' left='1835' width='65' height='84'/>
+    <box top='409' left='3736' width='63' height='84'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/11646.jpg'>
+    <box top='504' left='1238' width='51' height='66'/>
+    <box top='505' left='3146' width='51' height='65'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/11666.jpg'>
+    <box top='361' left='1722' width='138' height='165'/>
+    <box top='359' left='3619' width='139' height='167'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/13507.jpg'>
+    <box top='502' left='1433' width='51' height='58'/>
+    <box top='500' left='3336' width='53' height='62'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/13517.jpg'>
+    <box top='437' left='1783' width='88' height='97'/>
+    <box top='438' left='3680' width='90' height='98'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/1385.jpg'>
+    <box top='500' left='1233' width='42' height='55'/>
+    <box top='498' left='3138' width='46' height='59'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/1402.jpg'>
+    <box top='448' left='1398' width='76' height='91'/>
+    <box top='445' left='3304' width='75' height='96'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/1414.jpg'>
+    <box top='322' left='1775' width='143' height='174'/>
+    <box top='321' left='3671' width='147' height='170'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/15498.jpg'>
+    <box top='505' left='1543' width='36' height='44'/>
+    <box top='503' left='3448' width='34' height='48'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/15691.jpg'>
+    <box top='528' left='1330' width='47' height='63'/>
+    <box top='530' left='3236' width='50' height='62'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/15708.jpg'>
+    <box top='436' left='1764' width='96' height='129'/>
+    <box top='435' left='3660' width='103' height='133'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/16414.jpg'>
+    <box top='521' left='1390' width='43' height='49'/>
+    <box top='518' left='3297' width='42' height='52'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/16426.jpg'>
+    <box top='446' left='1818' width='82' height='98'/>
+    <box top='447' left='3715' width='85' height='98'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/16992.jpg'>
+    <box top='481' left='1592' width='40' height='50'/>
+    <box top='482' left='3497' width='41' height='52'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/16999.jpg'>
+    <box top='448' left='1824' width='57' height='62'/>
+    <box top='449' left='3728' width='56' height='63'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/18559.jpg'>
+    <box top='508' left='1106' width='33' height='41'/>
+    <box top='508' left='3011' width='37' height='42'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/18585.jpg'>
+    <box top='389' left='1348' width='80' height='94'/>
+    <box top='388' left='3244' width='84' height='97'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/18595.jpg'>
+    <box top='188' left='1732' width='163' height='183'/>
+    <box top='190' left='3616' width='166' height='179'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/8637.jpg'>
+    <box top='507' left='1195' width='45' height='62'/>
+    <box top='506' left='3100' width='47' height='64'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/8654.jpg'>
+    <box top='424' left='1478' width='83' height='117'/>
+    <box top='422' left='3379' width='86' height='120'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/White Signs/8660.jpg'>
+    <box top='350' left='1746' width='121' height='166'/>
+    <box top='347' left='3642' width='125' height='171'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,2502 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0696.jpg'>
+    <box top='487' left='1143' width='54' height='58'>
+      <label>Yellow</label>
+    </box>
+    <box top='545' left='1160' width='25' height='20'>
+      <label>Yellow</label>
+    </box>
+    <box top='487' left='3052' width='58' height='55'>
+      <label>Yellow</label>
+    </box>
+    <box top='542' left='3069' width='26' height='25'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0697.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0698.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0699.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0700.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0701.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0702.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0703.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0704.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0705.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0706.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0707.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0708.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0709.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0710.jpg'>
+    <box top='470' left='1208' width='76' height='71'>
+      <label>Yellow</label>
+    </box>
+    <box top='542' left='1234' width='30' height='27'>
+      <label>Yellow</label>
+    </box>
+    <box top='472' left='3123' width='67' height='68'>
+      <label>Yellow</label>
+    </box>
+    <box top='543' left='3145' width='27' height='26'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0711.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0712.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0713.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0714.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0715.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0716.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0717.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0718.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0719.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0720.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0721.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0722.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0723.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0724.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0725.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0726.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0727.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0728.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0729.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0730.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0731.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0732.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0733.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0734.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0735.jpg'>
+    <box top='381' left='1480' width='136' height='129'>
+      <label>Yellow</label>
+    </box>
+    <box top='511' left='1526' width='55' height='55'>
+      <label>Yellow</label>
+    </box>
+    <box top='386' left='3390' width='125' height='125'>
+      <label>Yellow</label>
+    </box>
+    <box top='512' left='3436' width='49' height='53'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0736.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0737.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0738.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0739.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0740.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0741.jpg'>
+    <box top='319' left='1626' width='161' height='160'>
+      <label>Yellow</label>
+    </box>
+    <box top='481' left='1681' width='63' height='61'>
+      <label>Yellow</label>
+    </box>
+    <box top='322' left='3532' width='153' height='155'>
+      <label>Yellow</label>
+    </box>
+    <box top='484' left='3584' width='59' height='57'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0742.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0743.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0744.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0745.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0746.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0919.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/0934.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/11646.jpg'>
+    <box top='503' left='1239' width='49' height='68'>
+      <label>White Sign</label>
+    </box>
+    <box top='505' left='3145' width='51' height='64'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/11666.jpg'>
+    <box top='362' left='1722' width='141' height='169'>
+      <label>White Sign</label>
+    </box>
+    <box top='356' left='3620' width='137' height='173'>
+      <label>White Sign</label>
+    </box>
+    <box top='542' left='3033' width='63' height='46'>
+      <label>Green Sign</label>
+    </box>
+    <box top='543' left='1123' width='63' height='45'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/13507.jpg'>
+    <box top='497' left='1430' width='55' height='65'>
+      <label>White Sign</label>
+    </box>
+    <box top='499' left='3336' width='51' height='63'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/13517.jpg'>
+    <box top='433' left='1780' width='92' height='102'>
+      <label>White Sign</label>
+    </box>
+    <box top='435' left='3676' width='95' height='103'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/1385.jpg'>
+    <box top='498' left='3136' width='49' height='59'>
+      <label>White Sign</label>
+    </box>
+    <box top='496' left='1229' width='49' height='62'>
+      <label>White Sign</label>
+    </box>
+    <box top='572' left='2004' width='36' height='39'>
+      <label>White Sign</label>
+    </box>
+    <box top='568' left='98' width='30' height='43'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/1402.jpg'>
+    <box top='444' left='1398' width='71' height='95'>
+      <label>White Sign</label>
+    </box>
+    <box top='440' left='3302' width='79' height='103'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/1414.jpg'>
+    <box top='318' left='1770' width='151' height='177'>
+      <label>White Sign</label>
+    </box>
+    <box top='316' left='3672' width='147' height='181'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14696.jpg'>
+    <box top='442' left='74' width='75' height='79'>
+      <label>Yellow</label>
+    </box>
+    <box top='540' left='86' width='43' height='35'>
+      <label>Yellow</label>
+    </box>
+    <box top='420' left='1302' width='75' height='77'>
+      <label>Yellow</label>
+    </box>
+    <box top='514' left='1324' width='35' height='37'>
+      <label>Yellow</label>
+    </box>
+    <box top='444' left='1976' width='75' height='79'>
+      <label>Yellow</label>
+    </box>
+    <box top='540' left='1992' width='39' height='37'>
+      <label>Yellow</label>
+    </box>
+    <box top='424' left='3204' width='79' height='73'>
+      <label>Yellow</label>
+    </box>
+    <box top='514' left='3228' width='37' height='35'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14697.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14698.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14699.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14700.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14701.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14702.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14703.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14704.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14705.jpg'>
+    <box top='291' left='1581' width='124' height='124'>
+      <label>Yellow</label>
+    </box>
+    <box top='450' left='1620' width='64' height='61'>
+      <label>Yellow</label>
+    </box>
+    <box top='294' left='3465' width='148' height='127'>
+      <label>Yellow</label>
+    </box>
+    <box top='456' left='3525' width='58' height='55'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14706.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14707.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/14708.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/15498.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/15691.jpg'>
+    <box top='530' left='3235' width='51' height='62'>
+      <label>White Sign</label>
+    </box>
+    <box top='528' left='1331' width='46' height='64'>
+      <label>White Sign</label>
+    </box>
+    <box top='575' left='1084' width='71' height='31'>
+      <label>Green Sign</label>
+    </box>
+    <box top='577' left='2996' width='72' height='31'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/15708.jpg'>
+    <box top='433' left='1757' width='104' height='135'>
+      <label>White Sign</label>
+    </box>
+    <box top='432' left='3660' width='103' height='135'>
+      <label>White Sign</label>
+    </box>
+    <box top='562' left='1075' width='85' height='41'>
+      <label>Green Sign</label>
+    </box>
+    <box top='566' left='2990' width='82' height='37'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/16414.jpg'>
+    <box top='518' left='3295' width='45' height='55'>
+      <label>White Sign</label>
+    </box>
+    <box top='516' left='1389' width='44' height='55'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/16426.jpg'>
+    <box top='562' left='3017' width='32' height='29'>
+      <label>Yellow</label>
+    </box>
+    <box top='561' left='1106' width='30' height='30'>
+      <label>Yellow</label>
+    </box>
+    <box top='438' left='1814' width='87' height='113'>
+      <label>White Sign</label>
+    </box>
+    <box top='444' left='3710' width='91' height='105'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/16992.jpg'>
+    <box top='546' left='1181' width='29' height='40'>
+      <label>Yellow</label>
+    </box>
+    <box top='547' left='3092' width='29' height='39'>
+      <label>Yellow</label>
+    </box>
+    <box top='481' left='1589' width='43' height='50'>
+      <label>White Sign</label>
+    </box>
+    <box top='483' left='3497' width='44' height='48'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/16999.jpg'>
+    <box top='547' left='1216' width='31' height='39'>
+      <label>Yellow</label>
+    </box>
+    <box top='545' left='3128' width='29' height='42'>
+      <label>Yellow</label>
+    </box>
+    <box top='444' left='1818' width='64' height='69'>
+      <label>White Sign</label>
+    </box>
+    <box top='446' left='3724' width='63' height='69'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/18559.jpg'>
+    <box top='506' left='1105' width='39' height='42'>
+      <label>White Sign</label>
+    </box>
+    <box top='505' left='3010' width='42' height='47'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/18585.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/18595.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/8637.jpg'>
+    <box top='505' left='3101' width='45' height='65'>
+      <label>White Sign</label>
+    </box>
+    <box top='502' left='1186' width='61' height='73'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/8654.jpg'>
+    <box top='422' left='1478' width='89' height='123'>
+      <label>White Sign</label>
+    </box>
+    <box top='416' left='3372' width='97' height='129'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/8660.jpg'>
+    <box top='344' left='1736' width='139' height='179'>
+      <label>White Sign</label>
+    </box>
+    <box top='344' left='3632' width='141' height='177'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00001.jpg'>
+    <box top='524' left='1225' width='36' height='33'>
+      <label>White Sign</label>
+    </box>
+    <box top='560' left='1227' width='36' height='17'>
+      <label>White Sign</label>
+    </box>
+    <box top='528' left='3136' width='33' height='29'>
+      <label>White Sign</label>
+    </box>
+    <box top='559' left='3136' width='35' height='16'>
+      <label>White Sign</label>
+    </box>
+    <box top='491' left='1221' width='41' height='32'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='489' left='3129' width='40' height='36'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00002.jpg'>
+    <box top='473' left='1392' width='58' height='54'>
+      <label>White Sign</label>
+    </box>
+    <box top='531' left='1396' width='56' height='26'>
+      <label>White Sign</label>
+    </box>
+    <box top='475' left='3299' width='60' height='53'>
+      <label>White Sign</label>
+    </box>
+    <box top='530' left='3302' width='57' height='26'>
+      <label>White Sign</label>
+    </box>
+    <box top='543' left='3092' width='49' height='38'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='560' left='3096' width='43' height='19'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='541' left='1182' width='48' height='41'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='558' left='1182' width='47' height='24'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='420' left='1385' width='63' height='52'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='420' left='3295' width='62' height='55'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00003.jpg'>
+    <box top='543' left='1059' width='26' height='26'>
+      <label>Yellow</label>
+    </box>
+    <box top='571' left='1065' width='16' height='11'>
+      <label>Yellow</label>
+    </box>
+    <box top='544' left='2971' width='26' height='25'>
+      <label>Yellow</label>
+    </box>
+    <box top='572' left='2979' width='12' height='10'>
+      <label>Yellow</label>
+    </box>
+    <box top='519' left='1265' width='87' height='38'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='518' left='3168' width='100' height='42'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00004.jpg'>
+    <box top='477' left='1386' width='125' height='70'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='480' left='3286' width='139' height='70'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00005.jpg'>
+    <box top='420' left='1650' width='214' height='110'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='425' left='3563' width='207' height='105'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00006.jpg'>
+    <box top='500' left='1172' width='60' height='60'>
+      <label>Yellow</label>
+    </box>
+    <box top='563' left='1193' width='26' height='21'>
+      <label>Yellow</label>
+    </box>
+    <box top='502' left='3082' width='59' height='58'>
+      <label>Yellow</label>
+    </box>
+    <box top='561' left='3101' width='29' height='27'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00007.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00008.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00009.jpg'>
+    <box top='378' left='1502' width='137' height='133'>
+      <label>Yellow</label>
+    </box>
+    <box top='520' left='1552' width='49' height='41'>
+      <label>Yellow</label>
+    </box>
+    <box top='382' left='3406' width='135' height='131'>
+      <label>Yellow</label>
+    </box>
+    <box top='518' left='3456' width='47' height='49'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00010.jpg'>
+    <box top='573' left='1175' width='60' height='22'>
+      <label>Green Sign</label>
+    </box>
+    <box top='574' left='3087' width='60' height='22'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00011.jpg'>
+    <box top='473' left='1327' width='38' height='18'>
+      <label>White Sign</label>
+    </box>
+    <box top='493' left='1330' width='33' height='33'>
+      <label>White Sign</label>
+    </box>
+    <box top='529' left='1329' width='34' height='23'>
+      <label>White Sign</label>
+    </box>
+    <box top='472' left='3238' width='35' height='18'>
+      <label>White Sign</label>
+    </box>
+    <box top='491' left='3234' width='36' height='36'>
+      <label>White Sign</label>
+    </box>
+    <box top='529' left='3238' width='32' height='24'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00012.jpg'>
+    <box top='336' left='1697' width='60' height='31'>
+      <label>White Sign</label>
+    </box>
+    <box top='372' left='1697' width='63' height='62'>
+      <label>White Sign</label>
+    </box>
+    <box top='439' left='1698' width='66' height='46'>
+      <label>White Sign</label>
+    </box>
+    <box top='337' left='3595' width='65' height='33'>
+      <label>White Sign</label>
+    </box>
+    <box top='370' left='3593' width='69' height='66'>
+      <label>White Sign</label>
+    </box>
+    <box top='441' left='3597' width='67' height='42'>
+      <label>White Sign</label>
+    </box>
+    <box top='552' left='1231' width='72' height='24'>
+      <label>Green Sign</label>
+    </box>
+    <box top='551' left='3142' width='74' height='27'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00013.jpg'>
+    <box top='538' left='1459' width='128' height='43'>
+      <label>Green Sign</label>
+    </box>
+    <box top='537' left='3369' width='124' height='45'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00014.jpg'>
+    <box top='514' left='1590' width='163' height='58'>
+      <label>Green Sign</label>
+    </box>
+    <box top='514' left='3494' width='166' height='58'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00015.jpg'>
+    <box top='528' left='1198' width='53' height='54'>
+      <label>Yellow</label>
+    </box>
+    <box top='531' left='3105' width='56' height='51'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00016.jpg'>
+    <box top='504' left='1302' width='73' height='73'>
+      <label>Yellow</label>
+    </box>
+    <box top='504' left='3206' width='79' height='73'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00017.jpg'>
+    <box top='454' left='1506' width='105' height='113'>
+      <label>Yellow</label>
+    </box>
+    <box top='452' left='3410' width='111' height='113'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00018.jpg'>
+    <box top='506' left='1243' width='29' height='15'>
+      <label>White Sign</label>
+    </box>
+    <box top='508' left='1287' width='29' height='13'>
+      <label>White Sign</label>
+    </box>
+    <box top='524' left='1245' width='28' height='28'>
+      <label>White Sign</label>
+    </box>
+    <box top='525' left='1284' width='30' height='29'>
+      <label>White Sign</label>
+    </box>
+    <box top='555' left='1247' width='24' height='17'>
+      <label>White Sign</label>
+    </box>
+    <box top='553' left='1285' width='28' height='19'>
+      <label>White Sign</label>
+    </box>
+    <box top='507' left='3150' width='31' height='15'>
+      <label>White Sign</label>
+    </box>
+    <box top='524' left='3151' width='30' height='29'>
+      <label>White Sign</label>
+    </box>
+    <box top='554' left='3154' width='24' height='17'>
+      <label>White Sign</label>
+    </box>
+    <box top='504' left='3193' width='31' height='18'>
+      <label>White Sign</label>
+    </box>
+    <box top='523' left='3192' width='30' height='31'>
+      <label>White Sign</label>
+    </box>
+    <box top='554' left='3195' width='27' height='17'>
+      <label>White Sign</label>
+    </box>
+    <box top='546' left='1062' width='68' height='49'>
+      <label>Green Sign</label>
+    </box>
+    <box top='548' left='2971' width='70' height='48'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00019.jpg'>
+    <box top='439' left='1439' width='46' height='25'>
+      <label>White Sign</label>
+    </box>
+    <box top='465' left='1439' width='43' height='48'>
+      <label>White Sign</label>
+    </box>
+    <box top='514' left='1440' width='42' height='29'>
+      <label>White Sign</label>
+    </box>
+    <box top='443' left='1503' width='50' height='22'>
+      <label>White Sign</label>
+    </box>
+    <box top='465' left='1504' width='47' height='48'>
+      <label>White Sign</label>
+    </box>
+    <box top='513' left='1509' width='42' height='34'>
+      <label>White Sign</label>
+    </box>
+    <box top='440' left='3343' width='46' height='22'>
+      <label>White Sign</label>
+    </box>
+    <box top='440' left='3407' width='52' height='27'>
+      <label>White Sign</label>
+    </box>
+    <box top='466' left='3342' width='49' height='47'>
+      <label>White Sign</label>
+    </box>
+    <box top='467' left='3406' width='53' height='48'>
+      <label>White Sign</label>
+    </box>
+    <box top='516' left='3347' width='41' height='30'>
+      <label>White Sign</label>
+    </box>
+    <box top='517' left='3411' width='43' height='28'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00020.jpg'>
+    <box top='522' left='1118' width='104' height='71'>
+      <label>Green Sign</label>
+    </box>
+    <box top='520' left='3028' width='106' height='75'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00021.jpg'>
+    <box top='474' left='1198' width='157' height='107'>
+      <label>Green Sign</label>
+    </box>
+    <box top='474' left='3106' width='161' height='113'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00022.jpg'>
+    <box top='364' left='1420' width='309' height='197'>
+      <label>Green Sign</label>
+    </box>
+    <box top='362' left='3332' width='301' height='197'>
+      <label>Green Sign</label>
+    </box>
+    <box top='574' left='845' width='23' height='20'>
+      <label>Green Sign</label>
+    </box>
+    <box top='577' left='2759' width='20' height='17'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00023.jpg'>
+    <box top='545' left='585' width='52' height='44'>
+      <label>Green Sign</label>
+    </box>
+    <box top='545' left='2490' width='59' height='48'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00024.jpg'>
+    <box top='556' left='1095' width='29' height='30'>
+      <label>White Sign</label>
+    </box>
+    <box top='555' left='3007' width='25' height='29'>
+      <label>White Sign</label>
+    </box>
+    <box top='504' left='364' width='87' height='71'>
+      <label>Green Sign</label>
+    </box>
+    <box top='504' left='2270' width='93' height='77'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00025.jpg'>
+    <box top='548' left='1112' width='31' height='33'>
+      <label>White Sign</label>
+    </box>
+    <box top='548' left='3025' width='28' height='34'>
+      <label>White Sign</label>
+    </box>
+    <box top='465' left='105' width='132' height='108'>
+      <label>Green Sign</label>
+    </box>
+    <box top='463' left='2006' width='136' height='111'>
+      <label>Green Sign</label>
+    </box>
+    <box top='550' left='2312' width='51' height='50'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='550' left='402' width='51' height='51'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00026.jpg'>
+    <box top='501' left='1235' width='50' height='73'>
+      <label>White Sign</label>
+    </box>
+    <box top='502' left='3137' width='55' height='74'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00027.jpg'>
+    <box top='358' left='1556' width='131' height='161'>
+      <label>White Sign</label>
+    </box>
+    <box top='360' left='3470' width='117' height='159'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00028.jpg'>
+    <box top='473' left='1454' width='54' height='25'>
+      <label>White Sign</label>
+    </box>
+    <box top='498' left='1461' width='51' height='51'>
+      <label>White Sign</label>
+    </box>
+    <box top='468' left='3358' width='59' height='32'>
+      <label>White Sign</label>
+    </box>
+    <box top='499' left='3364' width='53' height='49'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00029.jpg'>
+    <box top='405' left='1693' width='81' height='37'>
+      <label>White Sign</label>
+    </box>
+    <box top='448' left='1698' width='81' height='69'>
+      <label>White Sign</label>
+    </box>
+    <box top='404' left='3592' width='84' height='44'>
+      <label>White Sign</label>
+    </box>
+    <box top='448' left='3592' width='90' height='72'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00030.jpg'>
+    <box top='494' left='3371' width='144' height='78'>
+      <label>Green Sign</label>
+    </box>
+    <box top='492' left='1462' width='156' height='79'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00031.jpg'>
+    <box top='565' left='1218' width='56' height='23'>
+      <label>Green Sign</label>
+    </box>
+    <box top='567' left='3129' width='59' height='20'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00032.jpg'>
+    <box top='469' left='1565' width='184' height='96'>
+      <label>Green Sign</label>
+    </box>
+    <box top='469' left='3472' width='180' height='97'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00033.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00034.jpg'>
+    <box top='521' left='1258' width='57' height='63'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='521' left='3165' width='58' height='62'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00035.jpg'>
+    <box top='432' left='1632' width='113' height='124'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='428' left='3533' width='113' height='128'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00036.jpg'>
+    <box top='522' left='3319' width='150' height='61'>
+      <label>Green Sign</label>
+    </box>
+    <box top='524' left='1409' width='148' height='56'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00037.jpg'>
+    <box top='500' left='1619' width='203' height='78'>
+      <label>Green Sign</label>
+    </box>
+    <box top='499' left='3526' width='204' height='81'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00038.jpg'>
+    <box top='574' left='1036' width='59' height='34'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='573' left='2946' width='58' height='33'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00039.jpg'>
+    <box top='548' left='1150' width='95' height='54'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='549' left='3060' width='96' height='53'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00040.jpg'>
+    <box top='490' left='1369' width='187' height='100'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='487' left='3278' width='186' height='104'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00041.jpg'>
+    <box top='549' left='1245' width='45' height='38'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='547' left='3152' width='50' height='41'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00042.jpg'>
+    <box top='524' left='1388' width='68' height='52'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='525' left='3295' width='65' height='52'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00043.jpg'>
+    <box top='479' left='1650' width='104' height='84'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='479' left='3551' width='105' height='84'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00044.jpg'>
+    <box top='565' left='1077' width='31' height='33'>
+      <label>Yellow</label>
+    </box>
+    <box top='567' left='2991' width='29' height='30'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00045.jpg'>
+    <box top='542' left='3102' width='43' height='49'>
+      <label>Yellow</label>
+    </box>
+    <box top='540' left='1186' width='52' height='52'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00046.jpg'>
+    <box top='446' left='1610' width='127' height='119'>
+      <label>Yellow</label>
+    </box>
+    <box top='450' left='3506' width='135' height='117'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00047.jpg'>
+    <box top='525' left='3366' width='105' height='44'>
+      <label>Green Sign</label>
+    </box>
+    <box top='525' left='1458' width='108' height='46'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00048.jpg'>
+    <box top='504' left='1607' width='140' height='53'>
+      <label>Green Sign</label>
+    </box>
+    <box top='506' left='3509' width='137' height='52'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00049.jpg'>
+    <box top='570' left='1135' width='18' height='19'>
+      <label>White Sign</label>
+    </box>
+    <box top='570' left='3045' width='18' height='18'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00050.jpg'>
+    <box top='533' left='1281' width='35' height='37'>
+      <label>White Sign</label>
+    </box>
+    <box top='535' left='3192' width='29' height='33'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00051.jpg'>
+    <box top='466' left='1598' width='71' height='71'>
+      <label>White Sign</label>
+    </box>
+    <box top='469' left='3503' width='67' height='67'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00052.jpg'>
+    <box top='567' left='716' width='25' height='31'>
+      <label>White Sign</label>
+    </box>
+    <box top='569' left='1095' width='24' height='30'>
+      <label>White Sign</label>
+    </box>
+    <box top='569' left='2626' width='27' height='30'>
+      <label>White Sign</label>
+    </box>
+    <box top='567' left='3006' width='26' height='34'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00053.jpg'>
+    <box top='528' left='567' width='41' height='51'>
+      <label>White Sign</label>
+    </box>
+    <box top='528' left='1186' width='42' height='53'>
+      <label>White Sign</label>
+    </box>
+    <box top='529' left='2475' width='43' height='50'>
+      <label>White Sign</label>
+    </box>
+    <box top='529' left='3098' width='39' height='52'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00054.jpg'>
+    <box top='489' left='384' width='61' height='78'>
+      <label>White Sign</label>
+    </box>
+    <box top='491' left='1304' width='64' height='76'>
+      <label>White Sign</label>
+    </box>
+    <box top='489' left='2288' width='69' height='78'>
+      <label>White Sign</label>
+    </box>
+    <box top='490' left='3212' width='66' height='77'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00055.jpg'>
+    <box top='439' left='149' width='92' height='108'>
+      <label>White Sign</label>
+    </box>
+    <box top='437' left='1458' width='94' height='112'>
+      <label>White Sign</label>
+    </box>
+    <box top='440' left='2050' width='92' height='109'>
+      <label>White Sign</label>
+    </box>
+    <box top='439' left='3362' width='97' height='114'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00056.jpg'>
+    <box top='361' left='1734' width='147' height='166'>
+      <label>White Sign</label>
+    </box>
+    <box top='357' left='3638' width='150' height='170'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00057.jpg'>
+    <box top='542' left='1116' width='43' height='22'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='544' left='3026' width='42' height='19'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00058.jpg'>
+    <box top='522' left='1221' width='61' height='31'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='518' left='3126' width='64' height='34'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00059.jpg'>
+    <box top='443' left='1576' width='129' height='63'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='443' left='3478' width='131' height='66'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00060.jpg'>
+    <box top='552' left='2952' width='31' height='33'>
+      <label>Yellow</label>
+    </box>
+    <box top='586' left='2959' width='17' height='10'>
+      <label>Yellow</label>
+    </box>
+    <box top='552' left='1041' width='30' height='33'>
+      <label>Yellow</label>
+    </box>
+    <box top='586' left='1047' width='19' height='11'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00061.jpg'>
+    <box top='498' left='1160' width='64' height='67'>
+      <label>Yellow</label>
+    </box>
+    <box top='565' left='1168' width='50' height='29'>
+      <label>Yellow</label>
+    </box>
+    <box top='499' left='3071' width='61' height='66'>
+      <label>Yellow</label>
+    </box>
+    <box top='567' left='3082' width='39' height='25'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00062.jpg'>
+    <box top='346' left='1540' width='167' height='153'>
+      <label>Yellow</label>
+    </box>
+    <box top='512' left='1580' width='101' height='63'>
+      <label>Yellow</label>
+    </box>
+    <box top='344' left='3444' width='165' height='165'>
+      <label>Yellow</label>
+    </box>
+    <box top='512' left='3480' width='105' height='69'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00063.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00064.jpg'>
+    <box top='525' left='3136' width='31' height='22'>
+      <label>White Sign</label>
+    </box>
+    <box top='526' left='1230' width='30' height='18'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00065.jpg'>
+    <box top='436' left='1590' width='67' height='40'>
+      <label>White Sign</label>
+    </box>
+    <box top='437' left='3487' width='72' height='42'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00066.jpg'>
+    <box top='549' left='1137' width='80' height='41'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='549' left='3047' width='81' height='42'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00067.jpg'>
+    <box top='494' left='1419' width='174' height='88'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='494' left='3324' width='172' height='87'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00068.jpg'>
+    <box top='451' left='1620' width='248' height='125'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='450' left='3522' width='250' height='127'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00069.jpg'>
+    <box top='547' left='1113' width='25' height='12'>
+      <label>White Sign</label>
+    </box>
+    <box top='559' left='1113' width='24' height='21'>
+      <label>White Sign</label>
+    </box>
+    <box top='568' left='973' width='16' height='20'>
+      <label>White Sign</label>
+    </box>
+    <box top='547' left='3023' width='22' height='11'>
+      <label>White Sign</label>
+    </box>
+    <box top='561' left='3023' width='22' height='20'>
+      <label>White Sign</label>
+    </box>
+    <box top='568' left='2886' width='13' height='19'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00070.jpg'>
+    <box top='511' left='1279' width='42' height='22'>
+      <label>White Sign</label>
+    </box>
+    <box top='532' left='1279' width='41' height='39'>
+      <label>White Sign</label>
+    </box>
+    <box top='568' left='995' width='18' height='22'>
+      <label>White Sign</label>
+    </box>
+    <box top='511' left='3187' width='40' height='20'>
+      <label>White Sign</label>
+    </box>
+    <box top='534' left='3186' width='39' height='36'>
+      <label>White Sign</label>
+    </box>
+    <box top='569' left='2907' width='17' height='19'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00071.jpg'>
+    <box top='378' left='3728' width='103' height='57'>
+      <label>White Sign</label>
+    </box>
+    <box top='436' left='3724' width='111' height='101'>
+      <label>White Sign</label>
+    </box>
+    <box top='558' left='2926' width='21' height='26'>
+      <label>White Sign</label>
+    </box>
+    <box top='558' left='1015' width='21' height='27'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00072.jpg'>
+    <box top='413' left='1695' width='87' height='44'>
+      <label>White Sign</label>
+    </box>
+    <box top='461' left='1692' width='96' height='82'>
+      <label>White Sign</label>
+    </box>
+    <box top='559' left='1012' width='21' height='27'>
+      <label>White Sign</label>
+    </box>
+    <box top='458' left='3590' width='93' height='87'>
+      <label>White Sign</label>
+    </box>
+    <box top='413' left='3592' width='89' height='48'>
+      <label>White Sign</label>
+    </box>
+    <box top='560' left='2925' width='20' height='26'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00073.jpg'>
+    <box top='565' left='2903' width='19' height='33'>
+      <label>White Sign</label>
+    </box>
+    <box top='566' left='991' width='20' height='30'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00074.jpg'>
+    <box top='526' left='1163' width='37' height='63'>
+      <label>White Sign</label>
+    </box>
+    <box top='525' left='3071' width='39' height='62'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00075.jpg'>
+    <box top='379' left='1605' width='104' height='168'>
+      <label>White Sign</label>
+    </box>
+    <box top='375' left='3503' width='108' height='172'>
+      <label>White Sign</label>
+    </box>
+    <box top='565' left='989' width='55' height='34'>
+      <label>Green Sign</label>
+    </box>
+    <box top='563' left='2901' width='56' height='36'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00076.jpg'>
+    <box top='546' left='1032' width='73' height='45'>
+      <label>Green Sign</label>
+    </box>
+    <box top='545' left='2944' width='72' height='46'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00077.jpg'>
+    <box top='488' left='1220' width='163' height='102'>
+      <label>Green Sign</label>
+    </box>
+    <box top='491' left='3128' width='174' height='98'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00078.jpg'>
+    <box top='372' left='1518' width='341' height='201'>
+      <label>Green Sign</label>
+    </box>
+    <box top='374' left='3428' width='339' height='199'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00079.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00080.jpg'>
+    <box top='535' left='1132' width='124' height='70'>
+      <label>Green Sign</label>
+    </box>
+    <box top='535' left='3042' width='124' height='70'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00081.jpg'>
+    <box top='510' left='3402' width='55' height='55'>
+      <label>White Sign</label>
+    </box>
+    <box top='504' left='1498' width='57' height='59'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00082.jpg'>
+    <box top='559' left='1142' width='24' height='30'>
+      <label>Yellow</label>
+    </box>
+    <box top='560' left='3054' width='20' height='28'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00083.jpg'>
+    <box top='535' left='1244' width='39' height='43'>
+      <label>Yellow</label>
+    </box>
+    <box top='535' left='3153' width='41' height='45'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00084.jpg'>
+    <box top='454' left='1624' width='83' height='91'>
+      <label>Yellow</label>
+    </box>
+    <box top='454' left='3534' width='69' height='95'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00085.jpg'>
+    <box top='557' left='1052' width='39' height='33'>
+      <label>Green Sign</label>
+    </box>
+    <box top='556' left='2965' width='36' height='35'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00086.jpg'>
+    <box top='541' left='1132' width='56' height='44'>
+      <label>Green Sign</label>
+    </box>
+    <box top='540' left='3043' width='55' height='46'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00087.jpg'>
+    <box top='428' left='1512' width='166' height='131'>
+      <label>Green Sign</label>
+    </box>
+    <box top='427' left='3415' width='169' height='136'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00088.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00089.jpg'>
+    <box top='546' left='1164' width='49' height='49'>
+      <label>Yellow</label>
+    </box>
+    <box top='548' left='3078' width='43' height='47'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00090.jpg'>
+    <box top='430' left='1630' width='123' height='115'>
+      <label>Yellow</label>
+    </box>
+    <box top='428' left='3532' width='121' height='121'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00091.jpg'>
+    <box top='561' left='1100' width='30' height='26'>
+      <label>Yellow</label>
+    </box>
+    <box top='560' left='3012' width='29' height='31'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00092.jpg'>
+    <box top='499' left='1202' width='68' height='67'>
+      <label>Yellow</label>
+    </box>
+    <box top='501' left='3110' width='70' height='67'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00093.jpg'>
+    <box top='356' left='1564' width='165' height='169'>
+      <label>Yellow</label>
+    </box>
+    <box top='358' left='3462' width='169' height='165'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00094.jpg'>
+    <box top='540' left='1079' width='38' height='41'>
+      <label>Yellow</label>
+    </box>
+    <box top='544' left='2993' width='34' height='36'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00095.jpg'>
+    <box top='500' left='1296' width='69' height='79'>
+      <label>Yellow</label>
+    </box>
+    <box top='498' left='3204' width='71' height='81'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00096.jpg'>
+    <box top='416' left='1714' width='137' height='139'>
+      <label>Yellow</label>
+    </box>
+    <box top='416' left='3608' width='133' height='147'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00097.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00098.jpg'>
+    <box top='557' left='1004' width='31' height='28'>
+      <label>Yellow</label>
+    </box>
+    <box top='559' left='2916' width='29' height='28'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00099.jpg'>
+    <box top='557' left='2981' width='21' height='27'>
+      <label>White Sign</label>
+    </box>
+    <box top='555' left='1068' width='22' height='28'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00100.jpg'>
+    <box top='449' left='1394' width='83' height='103'>
+      <label>White Sign</label>
+    </box>
+    <box top='450' left='3299' width='79' height='100'>
+      <label>White Sign</label>
+    </box>
+    <box top='541' left='1109' width='58' height='40'>
+      <label>Green Sign</label>
+    </box>
+    <box top='540' left='3020' width='58' height='41'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00101.jpg'>
+    <box top='515' left='1221' width='95' height='67'>
+      <label>Green Sign</label>
+    </box>
+    <box top='515' left='3131' width='95' height='67'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00102.jpg'>
+    <box top='424' left='1586' width='203' height='139'>
+      <label>Green Sign</label>
+    </box>
+    <box top='422' left='3491' width='203' height='144'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00103.jpg'>
+    <box top='545' left='1051' width='26' height='36'>
+      <label>White Sign</label>
+    </box>
+    <box top='544' left='2963' width='24' height='37'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00104.jpg'>
+    <box top='509' left='1161' width='41' height='61'>
+      <label>White Sign</label>
+    </box>
+    <box top='510' left='3069' width='42' height='59'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00105.jpg'>
+    <box top='370' left='1556' width='103' height='158'>
+      <label>White Sign</label>
+    </box>
+    <box top='369' left='3455' width='108' height='164'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00106.jpg'>
+    <box top='583' left='1138' width='59' height='25'>
+      <label>Green Sign</label>
+    </box>
+    <box top='583' left='3048' width='60' height='23'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00107.jpg'>
+    <box top='567' left='1333' width='105' height='42'>
+      <label>Green Sign</label>
+    </box>
+    <box top='568' left='3240' width='111' height='41'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00108.jpg'>
+    <box top='525' left='1629' width='180' height='80'>
+      <label>Green Sign</label>
+    </box>
+    <box top='533' left='3534' width='184' height='74'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00109.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00110.jpg'>
+    <box top='551' left='1094' width='44' height='44'>
+      <label>Yellow</label>
+    </box>
+    <box top='552' left='3004' width='45' height='45'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00111.jpg'>
+    <box top='424' left='1582' width='129' height='127'>
+      <label>Yellow</label>
+    </box>
+    <box top='424' left='3484' width='129' height='127'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00112.jpg'>
+    <box top='556' left='702' width='58' height='37'>
+      <label>Green Sign</label>
+    </box>
+    <box top='555' left='2616' width='56' height='43'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00113.jpg'>
+    <box top='534' left='557' width='103' height='62'>
+      <label>Green Sign</label>
+    </box>
+    <box top='518' left='643' width='15' height='15'>
+      <label>Green Sign</label>
+    </box>
+    <box top='533' left='2470' width='100' height='63'>
+      <label>Green Sign</label>
+    </box>
+    <box top='518' left='2555' width='16' height='14'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00114.jpg'>
+    <box top='508' left='1270' width='143' height='71'>
+      <label>Green Sign</label>
+    </box>
+    <box top='463' left='143' width='222' height='140'>
+      <label>Green Sign</label>
+    </box>
+    <box top='421' left='331' width='36' height='40'>
+      <label>Green Sign</label>
+    </box>
+    <box top='462' left='2048' width='229' height='140'>
+      <label>Green Sign</label>
+    </box>
+    <box top='422' left='2240' width='35' height='39'>
+      <label>Green Sign</label>
+    </box>
+    <box top='510' left='3180' width='144' height='71'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00115.jpg'>
+    <box top='565' left='952' width='30' height='24'>
+      <label>Green Sign</label>
+    </box>
+    <box top='565' left='2863' width='28' height='24'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00116.jpg'>
+    <box top='538' left='1020' width='57' height='47'>
+      <label>Green Sign</label>
+    </box>
+    <box top='537' left='2935' width='51' height='46'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00117.jpg'>
+    <box top='342' left='1478' width='253' height='193'>
+      <label>Green Sign</label>
+    </box>
+    <box top='336' left='3380' width='251' height='203'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00118.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00119.jpg'>
+    <box top='534' left='1166' width='55' height='53'>
+      <label>Yellow</label>
+    </box>
+    <box top='538' left='3080' width='49' height='51'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00120.jpg'>
+    <box top='396' left='1644' width='149' height='143'>
+      <label>Yellow</label>
+    </box>
+    <box top='398' left='3548' width='145' height='139'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00121.jpg'>
+    <box top='580' left='683' width='27' height='27'>
+      <label>Yellow</label>
+    </box>
+    <box top='581' left='1030' width='24' height='29'>
+      <label>Yellow</label>
+    </box>
+    <box top='580' left='2594' width='27' height='25'>
+      <label>Yellow</label>
+    </box>
+    <box top='582' left='2939' width='28' height='25'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00122.jpg'>
+    <box top='536' left='438' width='52' height='58'>
+      <label>Yellow</label>
+    </box>
+    <box top='532' left='1179' width='54' height='55'>
+      <label>Yellow</label>
+    </box>
+    <box top='539' left='2344' width='58' height='54'>
+      <label>Yellow</label>
+    </box>
+    <box top='534' left='3085' width='57' height='52'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00123.jpg'>
+    <box top='484' left='99' width='90' height='86'>
+      <label>Yellow</label>
+    </box>
+    <box top='474' left='1383' width='96' height='90'>
+      <label>Yellow</label>
+    </box>
+    <box top='484' left='2002' width='91' height='83'>
+      <label>Yellow</label>
+    </box>
+    <box top='478' left='3291' width='87' height='83'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00124.jpg'>
+    <box top='576' left='695' width='19' height='17'>
+      <label>Yellow</label>
+    </box>
+    <box top='597' left='699' width='11' height='11'>
+      <label>Yellow</label>
+    </box>
+    <box top='571' left='986' width='18' height='17'>
+      <label>Yellow</label>
+    </box>
+    <box top='593' left='990' width='10' height='8'>
+      <label>Yellow</label>
+    </box>
+    <box top='576' left='2607' width='18' height='17'>
+      <label>Yellow</label>
+    </box>
+    <box top='597' left='2609' width='12' height='9'>
+      <label>Yellow</label>
+    </box>
+    <box top='572' left='2898' width='17' height='15'>
+      <label>Yellow</label>
+    </box>
+    <box top='592' left='2903' width='9' height='9'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00125.jpg'>
+    <box top='514' left='420' width='43' height='44'>
+      <label>Yellow</label>
+    </box>
+    <box top='571' left='430' width='20' height='22'>
+      <label>Yellow</label>
+    </box>
+    <box top='502' left='1139' width='47' height='45'>
+      <label>Yellow</label>
+    </box>
+    <box top='558' left='1151' width='22' height='23'>
+      <label>Yellow</label>
+    </box>
+    <box top='515' left='2327' width='45' height='42'>
+      <label>Yellow</label>
+    </box>
+    <box top='566' left='2333' width='29' height='29'>
+      <label>Yellow</label>
+    </box>
+    <box top='505' left='3049' width='44' height='42'>
+      <label>Yellow</label>
+    </box>
+    <box top='559' left='3062' width='21' height='22'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00126.jpg'>
+    <box top='455' left='105' width='75' height='70'>
+      <label>Yellow</label>
+    </box>
+    <box top='544' left='128' width='33' height='35'>
+      <label>Yellow</label>
+    </box>
+    <box top='430' left='1287' width='67' height='73'>
+      <label>Yellow</label>
+    </box>
+    <box top='523' left='1309' width='29' height='30'>
+      <label>Yellow</label>
+    </box>
+    <box top='454' left='2016' width='69' height='71'>
+      <label>Yellow</label>
+    </box>
+    <box top='549' left='2031' width='32' height='31'>
+      <label>Yellow</label>
+    </box>
+    <box top='433' left='3189' width='74' height='70'>
+      <label>Yellow</label>
+    </box>
+    <box top='523' left='3212' width='32' height='29'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00127.jpg'>
+    <box top='457' left='725' width='59' height='24'>
+      <label>Yellow</label>
+    </box>
+    <box top='460' left='2643' width='47' height='20'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00128.jpg'>
+    <box top='300' left='728' width='125' height='45'>
+      <label>Yellow</label>
+    </box>
+    <box top='302' left='2644' width='111' height='41'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00129.jpg'>
+    <box top='564' left='897' width='30' height='26'>
+      <label>White Sign</label>
+    </box>
+    <box top='567' left='2809' width='28' height='22'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00130.jpg'>
+    <box top='551' left='1055' width='49' height='40'>
+      <label>White Sign</label>
+    </box>
+    <box top='549' left='2966' width='47' height='41'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00131.jpg'>
+    <box top='442' left='1580' width='159' height='121'>
+      <label>White Sign</label>
+    </box>
+    <box top='442' left='3484' width='158' height='122'>
+      <label>White Sign</label>
+    </box>
+    <box top='598' left='867' width='60' height='26'>
+      <label>Green Sign</label>
+    </box>
+    <box top='597' left='2779' width='60' height='26'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00132.jpg'>
+    <box top='596' left='981' width='80' height='40'>
+      <label>Green Sign</label>
+    </box>
+    <box top='598' left='2891' width='81' height='36'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00133.jpg'>
+    <box top='562' left='1176' width='134' height='56'>
+      <label>Green Sign</label>
+    </box>
+    <box top='564' left='3089' width='132' height='53'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00134.jpg'>
+    <box top='490' left='1491' width='271' height='99'>
+      <label>Green Sign</label>
+    </box>
+    <box top='491' left='3398' width='270' height='99'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00135.jpg'>
+    <box top='580' left='1118' width='45' height='21'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='580' left='3029' width='46' height='21'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00136.jpg'>
+    <box top='553' left='1198' width='74' height='35'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='553' left='3108' width='75' height='38'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00137.jpg'>
+    <box top='491' left='1601' width='187' height='87'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='484' left='3506' width='186' height='93'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00138.jpg'>
+    <box top='567' left='1216' width='38' height='33'>
+      <label>White Sign</label>
+    </box>
+    <box top='568' left='3126' width='36' height='32'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00139.jpg'>
+    <box top='524' left='1604' width='89' height='79'>
+      <label>White Sign</label>
+    </box>
+    <box top='526' left='3510' width='92' height='77'>
+      <label>White Sign</label>
+    </box>
+    <box top='579' left='3068' width='19' height='25'>
+      <label>White Sign</label>
+    </box>
+    <box top='578' left='1157' width='19' height='27'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00140.jpg'>
+    <box top='547' left='3190' width='40' height='52'>
+      <label>White Sign</label>
+    </box>
+    <box top='546' left='1284' width='39' height='52'>
+      <label>White Sign</label>
+    </box>
+    <box top='583' left='1091' width='64' height='31'>
+      <label>Green Sign</label>
+    </box>
+    <box top='582' left='3002' width='67' height='32'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00141.jpg'>
+    <box top='535' left='1187' width='140' height='59'>
+      <label>Green Sign</label>
+    </box>
+    <box top='529' left='3098' width='138' height='67'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00142.jpg'>
+    <box top='557' left='1127' width='28' height='27'>
+      <label>White Sign</label>
+    </box>
+    <box top='556' left='3038' width='29' height='30'>
+      <label>White Sign</label>
+    </box>
+    <box top='431' left='1541' width='313' height='133'>
+      <label>Green Sign</label>
+    </box>
+    <box top='434' left='3448' width='315' height='133'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00143.jpg'>
+    <box top='534' left='1226' width='40' height='37'>
+      <label>White Sign</label>
+    </box>
+    <box top='534' left='3135' width='42' height='39'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00144.jpg'>
+    <box top='452' left='1670' width='97' height='95'>
+      <label>White Sign</label>
+    </box>
+    <box top='448' left='3572' width='107' height='105'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00145.jpg'>
+    <box top='551' left='1219' width='45' height='36'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='551' left='3128' width='48' height='38'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00146.jpg'>
+    <box top='532' left='1478' width='88' height='67'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='531' left='3385' width='89' height='71'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00147.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00148.jpg'>
+    <box top='575' left='1274' width='29' height='37'>
+      <label>Yellow</label>
+    </box>
+    <box top='577' left='3186' width='28' height='34'>
+      <label>Yellow</label>
+    </box>
+    <box top='575' left='1018' width='38' height='34'>
+      <label>Green Sign</label>
+    </box>
+    <box top='576' left='2928' width='39' height='35'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00149.jpg'>
+    <box top='550' left='1522' width='43' height='51'>
+      <label>Yellow</label>
+    </box>
+    <box top='552' left='3430' width='47' height='51'>
+      <label>Yellow</label>
+    </box>
+    <box top='549' left='1080' width='63' height='52'>
+      <label>Green Sign</label>
+    </box>
+    <box top='548' left='2989' width='61' height='52'>
+      <label>Green Sign</label>
+    </box>
+    <box top='552' left='1030' width='21' height='19'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='552' left='2941' width='22' height='19'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00150.jpg'>
+    <box top='526' left='1180' width='39' height='36'>
+      <label>White Sign</label>
+    </box>
+    <box top='562' left='1181' width='38' height='19'>
+      <label>White Sign</label>
+    </box>
+    <box top='525' left='3090' width='36' height='38'>
+      <label>White Sign</label>
+    </box>
+    <box top='564' left='3088' width='39' height='19'>
+      <label>White Sign</label>
+    </box>
+    <box top='394' left='1526' width='199' height='167'>
+      <label>Green Sign</label>
+    </box>
+    <box top='392' left='3424' width='201' height='171'>
+      <label>Green Sign</label>
+    </box>
+    <box top='487' left='1179' width='41' height='36'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='488' left='3088' width='42' height='37'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00151.jpg'>
+    <box top='497' left='1273' width='53' height='49'>
+      <label>White Sign</label>
+    </box>
+    <box top='547' left='1272' width='54' height='26'>
+      <label>White Sign</label>
+    </box>
+    <box top='497' left='3179' width='51' height='50'>
+      <label>White Sign</label>
+    </box>
+    <box top='547' left='3179' width='54' height='26'>
+      <label>White Sign</label>
+    </box>
+    <box top='449' left='1269' width='57' height='47'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='452' left='3178' width='57' height='44'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00152.jpg'>
+    <box top='371' left='1666' width='116' height='109'>
+      <label>White Sign</label>
+    </box>
+    <box top='479' left='1671' width='114' height='53'>
+      <label>White Sign</label>
+    </box>
+    <box top='373' left='3566' width='116' height='109'>
+      <label>White Sign</label>
+    </box>
+    <box top='479' left='3570' width='117' height='55'>
+      <label>White Sign</label>
+    </box>
+    <box top='281' left='1661' width='118' height='90'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='277' left='3562' width='124' height='98'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00153.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00154.jpg'>
+    <box top='572' left='1071' width='25' height='25'>
+      <label>Yellow</label>
+    </box>
+    <box top='572' left='2979' width='28' height='28'>
+      <label>Yellow</label>
+    </box>
+    <box top='538' left='1326' width='36' height='44'>
+      <label>White Sign</label>
+    </box>
+    <box top='537' left='3230' width='40' height='46'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00155.jpg'>
+    <box top='524' left='1246' width='63' height='59'>
+      <label>Yellow</label>
+    </box>
+    <box top='526' left='3162' width='55' height='57'>
+      <label>Yellow</label>
+    </box>
+    <box top='560' left='1001' width='52' height='37'>
+      <label>Green Sign</label>
+    </box>
+    <box top='560' left='2913' width='55' height='37'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00156.jpg'>
+    <box top='450' left='1674' width='117' height='117'>
+      <label>Yellow</label>
+    </box>
+    <box top='448' left='3578' width='113' height='131'>
+      <label>Yellow</label>
+    </box>
+    <box top='565' left='1023' width='62' height='44'>
+      <label>Green Sign</label>
+    </box>
+    <box top='567' left='2934' width='64' height='44'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00157.jpg'>
+    <box top='560' left='1045' width='72' height='48'>
+      <label>Green Sign</label>
+    </box>
+    <box top='559' left='2957' width='71' height='49'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00158.jpg'>
+    <box top='394' left='1485' width='265' height='181'>
+      <label>Green Sign</label>
+    </box>
+    <box top='393' left='3392' width='264' height='187'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00159.jpg'>
+    <box top='570' left='1045' width='35' height='35'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='571' left='2958' width='34' height='34'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00160.jpg'>
+    <box top='406' left='1612' width='166' height='159'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='407' left='3520' width='158' height='163'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00161.jpg'>
+    <box top='512' left='1747' width='41' height='25'>
+      <label>White Sign</label>
+    </box>
+    <box top='510' left='3653' width='38' height='29'>
+      <label>White Sign</label>
+    </box>
+    <box top='571' left='1118' width='23' height='25'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='571' left='3027' width='28' height='27'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00162.jpg'>
+    <box top='559' left='1233' width='65' height='30'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='557' left='3143' width='67' height='35'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='529' left='1346' width='59' height='56'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='531' left='3254' width='60' height='58'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00163.jpg'>
+    <box top='506' left='1625' width='143' height='71'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='503' left='3529' width='146' height='73'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00164.jpg'>
+    <box top='573' left='1166' width='29' height='16'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='573' left='3074' width='31' height='17'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00165.jpg'>
+    <box top='536' left='3577' width='89' height='50'>
+      <label>White Sign</label>
+    </box>
+    <box top='533' left='1670' width='94' height='54'>
+      <label>White Sign</label>
+    </box>
+    <box top='492' left='1669' width='89' height='40'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='490' left='3572' width='94' height='45'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00166.jpg'>
+    <box top='550' left='1176' width='34' height='32'>
+      <label>White Sign</label>
+    </box>
+    <box top='550' left='3086' width='35' height='34'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00167.jpg'>
+    <box top='559' left='1102' width='26' height='30'>
+      <label>Yellow</label>
+    </box>
+    <box top='560' left='3017' width='21' height='29'>
+      <label>Yellow</label>
+    </box>
+    <box top='439' left='1721' width='104' height='99'>
+      <label>White Sign</label>
+    </box>
+    <box top='437' left='3624' width='105' height='101'>
+      <label>White Sign</label>
+    </box>
+    <box top='540' left='3166' width='24' height='22'>
+      <label>White Sign</label>
+    </box>
+    <box top='537' left='1257' width='25' height='29'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00168.jpg'>
+    <box top='551' left='1239' width='39' height='44'>
+      <label>Yellow</label>
+    </box>
+    <box top='548' left='3149' width='37' height='50'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00169.jpg'>
+    <box top='474' left='1716' width='83' height='109'>
+      <label>Yellow</label>
+    </box>
+    <box top='470' left='3618' width='85' height='123'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00170.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00171.jpg'>
+    <box top='526' left='1097' width='60' height='56'>
+      <label>Green Sign</label>
+    </box>
+    <box top='529' left='3007' width='60' height='56'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00172.jpg'>
+    <box top='344' left='1620' width='227' height='175'>
+      <label>Green Sign</label>
+    </box>
+    <box top='340' left='3514' width='239' height='185'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00173.jpg'>
+    <box top='562' left='1049' width='32' height='35'>
+      <label>Yellow</label>
+    </box>
+    <box top='561' left='2960' width='32' height='32'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00174.jpg'>
+    <box top='524' left='1093' width='48' height='44'>
+      <label>Yellow</label>
+    </box>
+    <box top='522' left='3005' width='45' height='47'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00175.jpg'>
+    <box top='300' left='1720' width='181' height='177'>
+      <label>Yellow</label>
+    </box>
+    <box top='294' left='3618' width='181' height='190'>
+      <label>Yellow</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00176.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00177.jpg'>
+    <box top='543' left='1287' width='35' height='23'>
+      <label>White Sign</label>
+    </box>
+    <box top='480' left='1282' width='40' height='22'>
+      <label>White Sign</label>
+    </box>
+    <box top='543' left='3192' width='34' height='25'>
+      <label>White Sign</label>
+    </box>
+    <box top='486' left='3190' width='36' height='15'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00178.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00179.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00180.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00181.jpg'>
+    <box top='550' left='1053' width='26' height='28'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='552' left='2963' width='27' height='25'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00182.jpg'>
+    <box top='489' left='1224' width='58' height='58'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='490' left='3130' width='58' height='59'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00183.jpg'>
+    <box top='332' left='1667' width='143' height='140'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='333' left='3564' width='143' height='137'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00184.jpg'>
+    <box top='552' left='997' width='25' height='32'>
+      <label>White Sign</label>
+    </box>
+    <box top='543' left='997' width='19' height='8'>
+      <label>White Sign</label>
+    </box>
+    <box top='552' left='2907' width='25' height='32'>
+      <label>White Sign</label>
+    </box>
+    <box top='543' left='2910' width='16' height='10'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00185.jpg'>
+    <box top='489' left='1119' width='56' height='67'>
+      <label>White Sign</label>
+    </box>
+    <box top='471' left='1127' width='35' height='19'>
+      <label>White Sign</label>
+    </box>
+    <box top='489' left='3025' width='56' height='69'>
+      <label>White Sign</label>
+    </box>
+    <box top='472' left='3032' width='39' height='16'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00186.jpg'>
+    <box top='260' left='1558' width='169' height='209'>
+      <label>White Sign</label>
+    </box>
+    <box top='208' left='1574' width='117' height='49'>
+      <label>White Sign</label>
+    </box>
+    <box top='260' left='3448' width='177' height='209'>
+      <label>White Sign</label>
+    </box>
+    <box top='210' left='3462' width='123' height='47'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00187.jpg'>
+    <box top='532' left='1040' width='25' height='12'>
+      <label>White Sign</label>
+    </box>
+    <box top='532' left='2946' width='30' height='13'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00188.jpg'>
+    <box top='468' left='1152' width='55' height='21'>
+      <label>White Sign</label>
+    </box>
+    <box top='469' left='3060' width='52' height='24'>
+      <label>White Sign</label>
+    </box>
+    <box top='514' left='2984' width='73' height='41'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='514' left='1077' width='74' height='38'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00189.jpg'>
+    <box top='334' left='1396' width='211' height='115'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='336' left='3284' width='223' height='105'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00190.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00191.jpg'>
+    <box top='468' left='2594' width='27' height='29'>
+      <label>White Sign</label>
+    </box>
+    <box top='468' left='683' width='28' height='29'>
+      <label>White Sign</label>
+    </box>
+    <box top='474' left='940' width='71' height='13'>
+      <label>Green Sign</label>
+    </box>
+    <box top='473' left='2849' width='70' height='14'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00192.jpg'>
+    <box top='227' left='2174' width='79' height='91'>
+      <label>White Sign</label>
+    </box>
+    <box top='229' left='269' width='83' height='90'>
+      <label>White Sign</label>
+    </box>
+    <box top='261' left='974' width='194' height='32'>
+      <label>Green Sign</label>
+    </box>
+    <box top='258' left='2877' width='195' height='43'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00193.jpg'>
+    <box top='83' left='1933' width='111' height='129'>
+      <label>White Sign</label>
+    </box>
+    <box top='94' left='33' width='115' height='117'>
+      <label>White Sign</label>
+    </box>
+    <box top='125' left='993' width='265' height='62'>
+      <label>Green Sign</label>
+    </box>
+    <box top='132' left='2897' width='262' height='55'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00194.jpg'>
+    <box top='557' left='1007' width='44' height='23'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='557' left='2916' width='45' height='24'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00195.jpg'>
+    <box top='494' left='1144' width='98' height='48'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='494' left='3049' width='99' height='50'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00196.jpg'>
+    <box top='326' left='1492' width='223' height='119'>
+      <label>Orange Sign</label>
+    </box>
+    <box top='318' left='3372' width='235' height='137'>
+      <label>Orange Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00197.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00198.jpg'>
+    <box top='567' left='1070' width='48' height='33'>
+      <label>White Sign</label>
+    </box>
+    <box top='564' left='2976' width='54' height='38'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00199.jpg'>
+    <box top='472' left='3370' width='183' height='129'>
+      <label>White Sign</label>
+    </box>
+    <box top='470' left='1478' width='175' height='129'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00200.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00201.jpg'>
+    <box top='380' left='2517' width='41' height='48'>
+      <label>White Sign</label>
+    </box>
+    <box top='381' left='607' width='43' height='47'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00202.jpg'>
+    <box top='172' left='2248' width='83' height='90'>
+      <label>White Sign</label>
+    </box>
+    <box top='172' left='348' width='80' height='88'>
+      <label>White Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00203.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00204.jpg'>
+    <box top='550' left='1066' width='57' height='30'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='551' left='2976' width='57' height='29'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00205.jpg'>
+    <box top='359' left='1606' width='171' height='120'>
+      <label>Blue Sign</label>
+    </box>
+    <box top='356' left='3495' width='181' height='125'>
+      <label>Blue Sign</label>
+    </box>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00206.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/Road Signs/vlcsnap-00207.jpg'>
+    <box top='426' left='2583' width='29' height='33'>
+      <label>White Sign</label>
+    </box>
+    <box top='424' left='670' width='34' height='36'>
+      <label>White Sign</label>
+    </box>
+    <box top='442' left='898' width='77' height='24'>
+      <label>Green Sign</label>
+    </box>
+    <box top='442' left='2809' width='78' height='25'>
+      <label>Green Sign</label>
+    </box>
+  </image>
+</images>
+</dataset>

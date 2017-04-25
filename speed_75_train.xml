@@ -1,0 +1,713 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11631.jpg'>
+    <box top='530' left='1142' width='34' height='44'/>
+    <box top='529' left='3050' width='36' height='45'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11632.jpg'>
+    <box top='529' left='1145' width='37' height='45'/>
+    <box top='528' left='3053' width='37' height='46'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11633.jpg'>
+    <box top='531' left='1151' width='36' height='43'/>
+    <box top='529' left='3060' width='34' height='44'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11634.jpg'>
+    <box top='531' left='1154' width='36' height='43'/>
+    <box top='530' left='3064' width='37' height='45'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11635.jpg'>
+    <box top='528' left='1162' width='35' height='46'/>
+    <box top='528' left='3070' width='38' height='46'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11636.jpg'>
+    <box top='524' left='1165' width='37' height='48'/>
+    <box top='526' left='3075' width='35' height='46'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11637.jpg'>
+    <box top='523' left='1171' width='40' height='50'/>
+    <box top='523' left='3081' width='36' height='48'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11638.jpg'>
+    <box top='521' left='1176' width='41' height='52'/>
+    <box top='520' left='3083' width='43' height='50'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11639.jpg'>
+    <box top='519' left='1182' width='40' height='50'/>
+    <box top='516' left='3091' width='40' height='53'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11640.jpg'>
+    <box top='516' left='1187' width='45' height='57'/>
+    <box top='515' left='3097' width='42' height='53'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11641.jpg'>
+    <box top='513' left='1196' width='44' height='56'/>
+    <box top='513' left='3104' width='42' height='54'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11642.jpg'>
+    <box top='510' left='1202' width='46' height='58'/>
+    <box top='512' left='3109' width='45' height='54'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11643.jpg'>
+    <box top='508' left='1210' width='44' height='59'/>
+    <box top='508' left='3120' width='44' height='58'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11644.jpg'>
+    <box top='506' left='1218' width='47' height='62'/>
+    <box top='508' left='3127' width='47' height='58'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11645.jpg'>
+    <box top='505' left='1228' width='49' height='64'/>
+    <box top='507' left='3136' width='46' height='61'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11646.jpg'>
+    <box top='504' left='1237' width='51' height='65'/>
+    <box top='506' left='3145' width='49' height='61'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11647.jpg'>
+    <box top='503' left='1246' width='53' height='68'/>
+    <box top='507' left='3154' width='51' height='63'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11648.jpg'>
+    <box top='500' left='1257' width='52' height='71'/>
+    <box top='502' left='3164' width='52' height='65'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11649.jpg'>
+    <box top='497' left='1268' width='58' height='71'/>
+    <box top='501' left='3175' width='55' height='65'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11650.jpg'>
+    <box top='493' left='1284' width='53' height='74'/>
+    <box top='493' left='3187' width='59' height='73'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11651.jpg'>
+    <box top='489' left='1294' width='56' height='72'/>
+    <box top='489' left='3200' width='59' height='74'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11652.jpg'>
+    <box top='483' left='1309' width='61' height='80'/>
+    <box top='484' left='3214' width='61' height='76'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11653.jpg'>
+    <box top='475' left='1323' width='67' height='83'/>
+    <box top='477' left='3228' width='65' height='80'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11654.jpg'>
+    <box top='469' left='1337' width='72' height='86'/>
+    <box top='471' left='3245' width='66' height='83'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11655.jpg'>
+    <box top='461' left='1356' width='70' height='88'/>
+    <box top='462' left='3262' width='69' height='88'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11656.jpg'>
+    <box top='455' left='1375' width='75' height='93'/>
+    <box top='456' left='3281' width='74' height='90'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11657.jpg'>
+    <box top='448' left='1397' width='77' height='100'/>
+    <box top='450' left='3300' width='77' height='93'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11658.jpg'>
+    <box top='441' left='1420' width='82' height='103'/>
+    <box top='441' left='3322' width='83' height='100'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11659.jpg'>
+    <box top='434' left='1444' width='85' height='109'/>
+    <box top='436' left='3348' width='81' height='104'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11660.jpg'>
+    <box top='427' left='1472' width='87' height='113'/>
+    <box top='430' left='3375' width='86' height='108'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11661.jpg'>
+    <box top='419' left='1503' width='95' height='118'/>
+    <box top='421' left='3405' width='93' height='115'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11662.jpg'>
+    <box top='411' left='1535' width='101' height='123'/>
+    <box top='413' left='3438' width='101' height='122'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11663.jpg'>
+    <box top='401' left='1573' width='111' height='133'/>
+    <box top='404' left='3475' width='107' height='127'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11664.jpg'>
+    <box top='392' left='1617' width='118' height='138'/>
+    <box top='391' left='3519' width='111' height='138'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11665.jpg'>
+    <box top='375' left='1667' width='124' height='154'/>
+    <box top='380' left='3564' width='126' height='146'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11666.jpg'>
+    <box top='362' left='1721' width='138' height='160'/>
+    <box top='361' left='3618' width='141' height='162'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/11667.jpg'>
+    <box top='342' left='3685' width='147' height='171'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13497.jpg'>
+    <box top='530' left='1280' width='36' height='47'/>
+    <box top='532' left='3184' width='39' height='43'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13498.jpg'>
+    <box top='529' left='1290' width='38' height='46'/>
+    <box top='531' left='3198' width='35' height='44'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13499.jpg'>
+    <box top='526' left='1301' width='39' height='47'/>
+    <box top='529' left='3209' width='34' height='43'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13500.jpg'>
+    <box top='524' left='1316' width='41' height='45'/>
+    <box top='527' left='3223' width='36' height='44'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13501.jpg'>
+    <box top='521' left='1329' width='40' height='46'/>
+    <box top='522' left='3236' width='38' height='47'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13502.jpg'>
+    <box top='517' left='1342' width='44' height='51'/>
+    <box top='518' left='3249' width='40' height='48'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13503.jpg'>
+    <box top='516' left='1359' width='42' height='50'/>
+    <box top='517' left='3265' width='40' height='46'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13504.jpg'>
+    <box top='509' left='1375' width='45' height='54'/>
+    <box top='513' left='3279' width='46' height='49'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13505.jpg'>
+    <box top='509' left='1391' width='48' height='53'/>
+    <box top='510' left='3298' width='47' height='54'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13506.jpg'>
+    <box top='505' left='1410' width='50' height='55'/>
+    <box top='504' left='3315' width='51' height='58'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13507.jpg'>
+    <box top='501' left='1432' width='53' height='60'/>
+    <box top='503' left='3334' width='52' height='57'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13508.jpg'>
+    <box top='498' left='1453' width='54' height='60'/>
+    <box top='499' left='3357' width='55' height='58'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13509.jpg'>
+    <box top='493' left='1477' width='57' height='65'/>
+    <box top='496' left='3385' width='52' height='59'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13510.jpg'>
+    <box top='490' left='1504' width='60' height='63'/>
+    <box top='490' left='3409' width='56' height='64'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13511.jpg'>
+    <box top='484' left='1533' width='61' height='69'/>
+    <box top='486' left='3438' width='59' height='68'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13512.jpg'>
+    <box top='475' left='1564' width='65' height='76'/>
+    <box top='479' left='3464' width='68' height='72'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13513.jpg'>
+    <box top='471' left='1600' width='68' height='79'/>
+    <box top='472' left='3500' width='69' height='75'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13514.jpg'>
+    <box top='464' left='1639' width='72' height='82'/>
+    <box top='466' left='3535' width='80' height='82'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13515.jpg'>
+    <box top='458' left='1682' width='75' height='83'/>
+    <box top='457' left='3579' width='81' height='86'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13516.jpg'>
+    <box top='448' left='1728' width='81' height='91'/>
+    <box top='450' left='3622' width='91' height='89'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/13517.jpg'>
+    <box top='438' left='1782' width='87' height='96'/>
+    <box top='439' left='3677' width='97' height='97'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1352.jpg'>
+    <box top='545' left='1120' width='22' height='30'/>
+    <box top='545' left='3029' width='26' height='29'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1353.jpg'>
+    <box top='543' left='1121' width='24' height='31'/>
+    <box top='544' left='3032' width='23' height='31'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1354.jpg'>
+    <box top='543' left='1122' width='24' height='32'/>
+    <box top='544' left='3031' width='27' height='31'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1355.jpg'>
+    <box top='544' left='1123' width='25' height='31'/>
+    <box top='544' left='3032' width='28' height='31'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1356.jpg'>
+    <box top='545' left='1125' width='25' height='30'/>
+    <box top='545' left='3034' width='27' height='30'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1357.jpg'>
+    <box top='544' left='1130' width='23' height='33'/>
+    <box top='545' left='3037' width='28' height='31'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1358.jpg'>
+    <box top='542' left='1129' width='29' height='31'/>
+    <box top='544' left='3039' width='26' height='32'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1359.jpg'>
+    <box top='542' left='1131' width='28' height='33'/>
+    <box top='544' left='3041' width='28' height='31'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1360.jpg'>
+    <box top='538' left='1136' width='26' height='34'/>
+    <box top='540' left='3045' width='26' height='33'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1361.jpg'>
+    <box top='536' left='1137' width='28' height='36'/>
+    <box top='541' left='3047' width='27' height='30'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1362.jpg'>
+    <box top='535' left='1139' width='31' height='35'/>
+    <box top='538' left='3050' width='28' height='33'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1363.jpg'>
+    <box top='532' left='1143' width='28' height='37'/>
+    <box top='536' left='3054' width='28' height='31'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1364.jpg'>
+    <box top='529' left='1145' width='31' height='39'/>
+    <box top='532' left='3055' width='31' height='35'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1365.jpg'>
+    <box top='528' left='1149' width='30' height='37'/>
+    <box top='536' left='3059' width='30' height='30'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1366.jpg'>
+    <box top='527' left='1150' width='33' height='39'/>
+    <box top='528' left='3063' width='29' height='36'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1367.jpg'>
+    <box top='527' left='1156' width='32' height='38'/>
+    <box top='528' left='3064' width='33' height='38'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1368.jpg'>
+    <box top='528' left='1159' width='30' height='37'/>
+    <box top='528' left='3072' width='29' height='36'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1369.jpg'>
+    <box top='528' left='1161' width='33' height='38'/>
+    <box top='528' left='3073' width='32' height='39'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1370.jpg'>
+    <box top='528' left='1164' width='35' height='40'/>
+    <box top='530' left='3076' width='31' height='37'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1371.jpg'>
+    <box top='528' left='1167' width='37' height='41'/>
+    <box top='529' left='3081' width='31' height='41'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1372.jpg'>
+    <box top='531' left='1175' width='30' height='39'/>
+    <box top='532' left='3085' width='33' height='39'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1373.jpg'>
+    <box top='532' left='1180' width='28' height='38'/>
+    <box top='530' left='3088' width='34' height='43'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1374.jpg'>
+    <box top='529' left='1181' width='35' height='44'/>
+    <box top='529' left='3092' width='32' height='42'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1375.jpg'>
+    <box top='529' left='1185' width='36' height='43'/>
+    <box top='530' left='3096' width='32' height='40'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1376.jpg'>
+    <box top='525' left='1190' width='34' height='43'/>
+    <box top='526' left='3100' width='33' height='43'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1377.jpg'>
+    <box top='523' left='1193' width='36' height='43'/>
+    <box top='525' left='3106' width='30' height='41'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1378.jpg'>
+    <box top='520' left='1199' width='33' height='46'/>
+    <box top='520' left='3108' width='34' height='44'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1379.jpg'>
+    <box top='516' left='1202' width='38' height='47'/>
+    <box top='516' left='3111' width='37' height='46'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1380.jpg'>
+    <box top='512' left='1207' width='37' height='48'/>
+    <box top='514' left='3114' width='39' height='47'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1381.jpg'>
+    <box top='511' left='1213' width='39' height='49'/>
+    <box top='512' left='3121' width='38' height='50'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1382.jpg'>
+    <box top='509' left='1215' width='43' height='49'/>
+    <box top='510' left='3124' width='40' height='48'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1383.jpg'>
+    <box top='506' left='1219' width='43' height='52'/>
+    <box top='505' left='3129' width='41' height='52'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1384.jpg'>
+    <box top='503' left='1224' width='47' height='53'/>
+    <box top='504' left='3136' width='40' height='51'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1385.jpg'>
+    <box top='503' left='1232' width='43' height='54'/>
+    <box top='501' left='3138' width='45' height='54'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1386.jpg'>
+    <box top='497' left='1236' width='46' height='57'/>
+    <box top='498' left='3144' width='47' height='57'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1387.jpg'>
+    <box top='497' left='1244' width='46' height='59'/>
+    <box top='499' left='3151' width='45' height='56'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1388.jpg'>
+    <box top='495' left='1247' width='50' height='61'/>
+    <box top='498' left='3157' width='47' height='56'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1389.jpg'>
+    <box top='494' left='1257' width='46' height='59'/>
+    <box top='497' left='3165' width='47' height='57'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1390.jpg'>
+    <box top='493' left='1263' width='50' height='61'/>
+    <box top='494' left='3170' width='50' height='59'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1391.jpg'>
+    <box top='490' left='1271' width='51' height='69'/>
+    <box top='492' left='3178' width='52' height='62'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1392.jpg'>
+    <box top='492' left='1279' width='52' height='59'/>
+    <box top='490' left='3186' width='53' height='67'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1393.jpg'>
+    <box top='487' left='1287' width='55' height='67'/>
+    <box top='492' left='3197' width='50' height='62'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1394.jpg'>
+    <box top='487' left='1298' width='52' height='65'/>
+    <box top='488' left='3205' width='51' height='65'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1395.jpg'>
+    <box top='481' left='1306' width='59' height='75'/>
+    <box top='482' left='3214' width='56' height='72'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1396.jpg'>
+    <box top='479' left='1314' width='62' height='72'/>
+    <box top='481' left='3221' width='62' height='71'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1397.jpg'>
+    <box top='479' left='1331' width='58' height='68'/>
+    <box top='476' left='3234' width='62' height='73'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1398.jpg'>
+    <box top='470' left='1342' width='61' height='77'/>
+    <box top='472' left='3246' width='61' height='74'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1399.jpg'>
+    <box top='467' left='1354' width='64' height='77'/>
+    <box top='467' left='3258' width='66' height='77'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1400.jpg'>
+    <box top='461' left='1368' width='67' height='81'/>
+    <box top='459' left='3273' width='65' height='84'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1401.jpg'>
+    <box top='456' left='1382' width='69' height='83'/>
+    <box top='453' left='3286' width='73' height='89'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1402.jpg'>
+    <box top='451' left='1400' width='70' height='85'/>
+    <box top='448' left='3303' width='73' height='87'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1403.jpg'>
+    <box top='443' left='1414' width='77' height='89'/>
+    <box top='442' left='3319' width='79' height='95'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1404.jpg'>
+    <box top='439' left='1435' width='77' height='92'/>
+    <box top='437' left='3338' width='79' height='95'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1405.jpg'>
+    <box top='432' left='1455' width='82' height='94'/>
+    <box top='431' left='3361' width='79' height='99'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1406.jpg'>
+    <box top='424' left='1480' width='85' height='103'/>
+    <box top='424' left='3380' width='83' height='104'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1407.jpg'>
+    <box top='418' left='1502' width='92' height='104'/>
+    <box top='417' left='3405' width='89' height='108'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1408.jpg'>
+    <box top='403' left='1529' width='96' height='119'/>
+    <box top='408' left='3434' width='97' height='116'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1409.jpg'>
+    <box top='397' left='1561' width='100' height='117'/>
+    <box top='394' left='3460' width='104' height='124'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1410.jpg'>
+    <box top='387' left='1596' width='107' height='123'/>
+    <box top='382' left='3493' width='111' height='131'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1411.jpg'>
+    <box top='378' left='1636' width='111' height='126'/>
+    <box top='370' left='3529' width='117' height='139'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1412.jpg'>
+    <box top='365' left='1674' width='123' height='135'/>
+    <box top='359' left='3573' width='122' height='143'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1413.jpg'>
+    <box top='346' left='1724' width='130' height='150'/>
+    <box top='344' left='3620' width='133' height='154'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1414.jpg'>
+    <box top='328' left='1776' width='140' height='165'/>
+    <box top='327' left='3676' width='138' height='162'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1415.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/1416.jpg'>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8607.jpg'>
+    <box top='544' left='1045' width='27' height='33'/>
+    <box top='544' left='2956' width='27' height='35'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8608.jpg'>
+    <box top='544' left='1050' width='23' height='33'/>
+    <box top='544' left='2961' width='24' height='35'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8609.jpg'>
+    <box top='543' left='1052' width='25' height='34'/>
+    <box top='544' left='2961' width='28' height='35'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8610.jpg'>
+    <box top='544' left='1055' width='24' height='34'/>
+    <box top='545' left='2962' width='31' height='37'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8611.jpg'>
+    <box top='544' left='1057' width='26' height='34'/>
+    <box top='543' left='2968' width='26' height='37'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8612.jpg'>
+    <box top='543' left='1059' width='28' height='35'/>
+    <box top='542' left='2970' width='26' height='37'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8613.jpg'>
+    <box top='541' left='1064' width='26' height='37'/>
+    <box top='542' left='2973' width='27' height='37'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8614.jpg'>
+    <box top='540' left='1066' width='27' height='36'/>
+    <box top='541' left='2975' width='29' height='37'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8615.jpg'>
+    <box top='539' left='1069' width='26' height='37'/>
+    <box top='540' left='2981' width='27' height='36'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8616.jpg'>
+    <box top='539' left='1073' width='29' height='36'/>
+    <box top='538' left='2983' width='28' height='40'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8617.jpg'>
+    <box top='537' left='1076' width='28' height='38'/>
+    <box top='536' left='2985' width='33' height='43'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8618.jpg'>
+    <box top='536' left='1080' width='29' height='39'/>
+    <box top='536' left='2989' width='32' height='41'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8619.jpg'>
+    <box top='535' left='1083' width='31' height='41'/>
+    <box top='536' left='2993' width='32' height='40'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8620.jpg'>
+    <box top='535' left='1087' width='31' height='39'/>
+    <box top='536' left='2997' width='32' height='41'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8621.jpg'>
+    <box top='534' left='1093' width='29' height='41'/>
+    <box top='532' left='3000' width='33' height='44'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8622.jpg'>
+    <box top='532' left='1097' width='31' height='43'/>
+    <box top='533' left='3006' width='33' height='41'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8623.jpg'>
+    <box top='532' left='1101' width='32' height='41'/>
+    <box top='531' left='3008' width='34' height='46'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8624.jpg'>
+    <box top='531' left='1106' width='32' height='43'/>
+    <box top='531' left='3016' width='31' height='45'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8625.jpg'>
+    <box top='530' left='1111' width='33' height='44'/>
+    <box top='530' left='3018' width='36' height='43'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8626.jpg'>
+    <box top='528' left='1118' width='33' height='47'/>
+    <box top='529' left='3021' width='40' height='45'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8627.jpg'>
+    <box top='528' left='1121' width='35' height='46'/>
+    <box top='527' left='3029' width='37' height='47'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8628.jpg'>
+    <box top='525' left='1128' width='34' height='49'/>
+    <box top='526' left='3034' width='39' height='48'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8629.jpg'>
+    <box top='524' left='1132' width='38' height='51'/>
+    <box top='525' left='3043' width='36' height='50'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8630.jpg'>
+    <box top='523' left='1138' width='40' height='52'/>
+    <box top='523' left='3050' width='36' height='50'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8631.jpg'>
+    <box top='521' left='1146' width='37' height='53'/>
+    <box top='521' left='3056' width='37' height='53'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8632.jpg'>
+    <box top='520' left='1153' width='38' height='53'/>
+    <box top='519' left='3059' width='43' height='54'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8633.jpg'>
+    <box top='517' left='1160' width='40' height='58'/>
+    <box top='518' left='3069' width='43' height='53'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8634.jpg'>
+    <box top='514' left='1169' width='39' height='58'/>
+    <box top='514' left='3075' width='42' height='57'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8635.jpg'>
+    <box top='511' left='1175' width='42' height='60'/>
+    <box top='513' left='3084' width='42' height='58'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8636.jpg'>
+    <box top='511' left='1186' width='40' height='57'/>
+    <box top='511' left='3093' width='45' height='59'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8637.jpg'>
+    <box top='508' left='1194' width='43' height='60'/>
+    <box top='508' left='3099' width='47' height='61'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8638.jpg'>
+    <box top='505' left='1202' width='45' height='63'/>
+    <box top='505' left='3109' width='47' height='64'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8639.jpg'>
+    <box top='503' left='1212' width='48' height='64'/>
+    <box top='504' left='3120' width='44' height='62'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8640.jpg'>
+    <box top='501' left='1224' width='46' height='65'/>
+    <box top='501' left='3129' width='53' height='65'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8641.jpg'>
+    <box top='499' left='1233' width='50' height='68'/>
+    <box top='498' left='3140' width='53' height='67'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8642.jpg'>
+    <box top='495' left='1245' width='51' height='71'/>
+    <box top='497' left='3151' width='56' height='70'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8643.jpg'>
+    <box top='490' left='1258' width='52' height='74'/>
+    <box top='491' left='3163' width='57' height='73'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8644.jpg'>
+    <box top='487' left='1270' width='55' height='77'/>
+    <box top='489' left='3176' width='57' height='76'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8645.jpg'>
+    <box top='484' left='1286' width='54' height='78'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8646.jpg'>
+    <box top='479' left='1300' width='58' height='82'/>
+    <box top='480' left='3206' width='57' height='79'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8647.jpg'>
+    <box top='476' left='1315' width='64' height='84'/>
+    <box top='472' left='3221' width='64' height='90'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8648.jpg'>
+    <box top='470' left='1333' width='64' height='88'/>
+    <box top='468' left='3239' width='66' height='89'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8649.jpg'>
+    <box top='465' left='1351' width='68' height='90'/>
+    <box top='463' left='3258' width='64' height='90'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8650.jpg'>
+    <box top='456' left='1372' width='70' height='96'/>
+    <box top='457' left='3277' width='71' height='94'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8651.jpg'>
+    <box top='449' left='1395' width='73' height='100'/>
+    <box top='451' left='3303' width='69' height='96'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8652.jpg'>
+    <box top='441' left='1422' width='73' height='105'/>
+    <box top='443' left='3327' width='73' height='104'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8653.jpg'>
+    <box top='435' left='1447' width='80' height='108'/>
+    <box top='433' left='3349' width='82' height='112'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8654.jpg'>
+    <box top='426' left='1476' width='83' height='113'/>
+    <box top='423' left='3376' width='89' height='120'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8655.jpg'>
+    <box top='416' left='1509' width='88' height='121'/>
+    <box top='413' left='3407' width='96' height='126'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8656.jpg'>
+    <box top='405' left='1546' width='91' height='128'/>
+    <box top='402' left='3441' width='103' height='135'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8657.jpg'>
+    <box top='393' left='1586' width='98' height='135'/>
+    <box top='393' left='3487' width='106' height='143'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8658.jpg'>
+    <box top='381' left='1634' width='101' height='142'/>
+    <box top='376' left='3524' width='122' height='157'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8659.jpg'>
+    <box top='366' left='1683' width='114' height='153'/>
+    <box top='362' left='3577' width='125' height='165'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8660.jpg'>
+    <box top='349' left='1745' width='119' height='166'/>
+    <box top='347' left='3638' width='131' height='174'/>
+  </image>
+  <image file='/home/wael-karkoub/Desktop/Research/Pictures/SpeedSigns_75/8661.jpg'>
+    <box top='327' left='3707' width='133' height='184'/>
+  </image>
+</images>
+</dataset>
